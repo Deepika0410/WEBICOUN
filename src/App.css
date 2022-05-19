@@ -1,5 +1,14 @@
+body{
+  align-items: center;
+  text-align: center;
+}
+
 .App {
   text-align: center;
+}
+
+.Heading{
+  color: rgb(5, 66, 92);
 }
 
 .App-logo {
